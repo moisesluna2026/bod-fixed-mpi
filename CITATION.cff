@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Fixed-reference Benefit-of-the-Doubt index on Alkire-Foster censored headcounts: replication package"
+type: software
+authors:
+  - family-names: "Brandão"
+    given-names: "Moisés Luna"
+  - family-names: "Mariano"
+    given-names: "Enzo Barberio"
+  - family-names: "Rebelatto"
+    given-names: "Daisy Aparecida do Nascimento"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-26"
+doi: "10.5281/zenodo.23673342"
+url: "https://doi.org/10.5281/zenodo.23673342"
+repository-code: "https://github.com/moisesluna2026/bod-fixed-mpi"
+keywords:
+  - multidimensional poverty
+  - benefit of the doubt
+  - fixed reference
+  - Alkire-Foster
