@@ -1,0 +1,35 @@
+PASS | AF identity: M0 = H x A in the 54 profiles 
+PASS | tau = 1 recovers M0 divided by the largest M0 of the reference 
+PASS | lpSolve equals GLPK in every score (max abs diff < 1e-8) 
+PASS | tau = 0: lpSolve equals Benchmarking (max abs diff < 1e-8) 
+PASS | fixed reference: no other UF changes after any shock 
+PASS | fixed reference: own score does not fall after a worsening nor rise after an improvement 
+PASS | fixed reference: national mean does not fall after a worsening 
+PASS | weak monotonicity in the profile: no score falls 
+PASS | strict monotonicity with tau > 0: every score rises 
+PASS | person level: no score falls when a household gains a deprivation 
+PASS | person level, tau > 0: score rises whenever the household is poor after the change 
+PASS | person level: score unchanged when the household stays non-poor (focus) 
+PASS | subgroup consistency: national mean rises and no other UF changes 
+PASS | every censored headcount is lower in 2022 than in 2010 in every UF (dominance) 
+PASS | fixed reference, tau > 0: every UF score falls between 2010 and 2022 
+PASS | dominant indicator unique in every UF in 2022 
+PASS | numerical example: fixed-reference mean = 16/15 
+All checks passed.
+PASS | Scope counterexample, population decomposition, 108 AF measures, 1296 headcounts, 324 scores and territorial decomposition
+     tau subgroup_before subgroup_after territory_before territory_after
+   <num>           <num>          <num>            <num>           <num>
+1:   0.5           0.625            0.7            0.625          0.4875
+     tau     J2010 J2022_current J2022_fixed_population change_current_pct
+   <num>     <num>         <num>                  <num>              <num>
+1:   0.5 0.4857693     0.2390133               0.241207          -50.79696
+   change_standardized_pct score_effect population_effect
+                     <num>        <num>             <num>
+1:               -50.34537   -0.2445624      -0.002193675
+Key: <ano>
+     ano       max_AF
+   <int>        <num>
+1:  1991 8.493206e-14
+2:  2000 4.202194e-14
+3:  2010 5.598300e-14
+4:  2022 3.200218e-14
