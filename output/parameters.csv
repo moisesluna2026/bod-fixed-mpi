@@ -1,0 +1,10 @@
+parameter,value
+k,0.333333333333333
+min_wage2010,510
+min_wage2022,1212
+ipca_jul2010,3111.05
+ipca_jul2022,6411.95
+income_share,0.25
+tau_main,0.5
+tau_grid,0 0.1 0.25 0.5 0.75 1
+tol,1e-09
