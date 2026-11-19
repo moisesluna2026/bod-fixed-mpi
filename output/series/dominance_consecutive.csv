@@ -1,0 +1,4 @@
+from,to,cells_lower,cells,ufs_all_lower,moving_rises,fixed_rises
+1991,2000,282,324,1,5,0
+2000,2010,315,324,21,4,0
+2010,2022,324,324,27,4,0
