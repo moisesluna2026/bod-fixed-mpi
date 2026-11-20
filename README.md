@@ -136,6 +136,6 @@ than 1e-10. `manifest_sha256.json` identifies every file of the package except i
 
 ## Citation and license
 
-Cite this software using [`CITATION.cff`](CITATION.cff). Archived version (Zenodo):
-<https://doi.org/10.5281/zenodo.23673342>. Code and documentation: MIT (see `LICENSE`). The census
+Cite this software using [`CITATION.cff`](CITATION.cff). Archived version 1.1.0 (Zenodo):
+<https://doi.org/10.5281/zenodo.24407335>; version 1.0.0: <https://doi.org/10.5281/zenodo.23673342>. Code and documentation: MIT (see `LICENSE`). The census
 microdata are public data distributed by IBGE and are not redistributed here.

@@ -1,6 +1,6 @@
 {
   ".gitignore": "55eb2117f41c789de8db8a02cd1f0dd06e04d0813146bf9c170e26db33bb1c32",
-  "CITATION.cff": "f0393fecbaa73b5e038c32f87dcd2ab4ded923d14bd6cf637f1342cd12fa33a2",
+  "CITATION.cff": "e0795fbc0fa37ff5a11a4c6dddc0676cdad6cc5c31db82512221e4ed892ba179",
   "LICENSE": "42ed703fbcf0a543f83610109d1ea23626ff60ce25f963fbf24bed439b818aef",
   "R/01_download.R": "746c5442442ab050055c362604aa272d94a3baea73498096f104596f7283cc0b",
   "R/02_build_census2010.R": "2ae80aec47204fa22b7b679658a126f67e395ab3d4b00b279649b28e504c6ad9",
@@ -15,7 +15,7 @@
   "R/11_manifest.R": "c64da5b5d801514fa384cb19157bf4cb6b231b1398a8ac7a17b132396eb46e25",
   "R/config.R": "0af8e16a1928d9af27ee29734e3cae609d1243569a5e2eeb187c95d2665e86c3",
   "R/functions.R": "fc3c74038f062395d7fb3c05038e8bec25cfb6d8c203514a283d56a71dbcb9f3",
-  "README.md": "16f60115b1a23bd1e0ffb84f5ea81f03ae16bfae8f00a0cf25647cc04045b354",
+  "README.md": "3a48b44746d519188bb8249381be872dbc9778081ef09be583f294529824a0d4",
   "docs/af_reference_headcounts.csv": "da66ae489afc47c3e7d1cf74f7b7e87e6f71434226a46232c575136d0410b6a5",
   "docs/af_reference_results.csv": "70aa943c335a2b8b428135134b2fc9dc896dfbe3cd406fb849114a7dee83b963",
   "docs/indicators.md": "adfbf756547d6f2d3d0220632bb4de55b2c60d55a0434f7688e4e17a1b97e784",
