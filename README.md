@@ -1,7 +1,7 @@
 # Fixed-reference Benefit-of-the-Doubt index on Alkire-Foster censored headcounts
 
 Replication package for the article *Endogenous weights and a fixed reference in territorial
-multidimensional poverty measurement: evidence for Brazil, 1991 to 2022* (Brandão, Mariano and
+multidimensional poverty measurement* (Brandão, Mariano and
 Rebelatto). The package reproduces the scores, tables, figure and checks of the article from the
 public microdata of the Brazilian Demographic Census (IBGE). The main application uses the 2010 and
 2022 censuses; an optional historical extension adds the 1991 and 2000 census samples.
